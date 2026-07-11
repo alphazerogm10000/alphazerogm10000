@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=building%20things%20that%20matter&descSize=18&descAlignY=52" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=medical+ai+%F0%9F%A7%AC+deep+learning+%F0%9F%94%A5+full-stack+%F0%9F%9A%80;if+it+can+be+built%2C+i'll+build+it+%E2%9A%A1;currently+teaching+machines+to+see+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=data+science+%F0%9F%93%8A+machine+learning+%F0%9F%A4%96+full-stack+%F0%9F%9A%80;if+it+can+be+built%2C+i'll+build+it+%E2%9A%A1;currently+building+scalable+data+pipelines+%E2%9A%99" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,9 +28,9 @@ education:
   - BSc (Hons.) Data Science & AI @ IIT Guwahati — CPI 8.47
 
 currently:
-  - training models to detect fetal anomalies for ICMR 🔬
+  - designing scalable ETL pipelines & analytical workflows 📊
   - shipping full-stack apps with FastAPI + React ⚡
-  - going deep on medical imaging & explainable AI 🧠
+  - going deep on big data engineering & machine learning 🧠
 ```
 
 <br/>
@@ -41,6 +41,8 @@ currently:
 
 #### `languages`
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,22 +82,24 @@ currently:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🩺 Diabetic Retinopathy Detection</h3>
+<h3 align="center">🎒 KnapsackMode</h3>
 <p align="center">
-  <a href="https://github.com/gandhiarnav/diabetic-retinopathy-detection">
+  <a href="https://github.com/gandhiarnav/KnapsackMode">
     <img src="https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/QWK-0.9273-58a6ff?style=flat-square" />
+  <a href="https://knapsackmode-backend-967643216830.us-central1.run.app/docs">
+    <img src="https://img.shields.io/badge/-docs-58a6ff?style=flat-square" />
+  </a>
 </p>
 
-Multi-task DL pipeline that **grades DR severity** and **macular edema risk** from retinal fundus images. Grew the dataset **8x** without synthetic data. Includes Grad-CAM explainability and a clinical advisory system.
+AI-powered study time optimizer that extracts topics using Gemini AI and uses a custom **bounded knapsack dynamic programming algorithm** to maximize total value within a user's time constraint.
 
 <p align="center">
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-ConvNeXt-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/-Grad--CAM-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/-Medical_AI-red?style=flat-square" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Algorithms-orange?style=flat-square" />
 </p>
 
 </td>
