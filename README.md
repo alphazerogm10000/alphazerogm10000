@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=building%20things%20that%20matter&descSize=18&descAlignY=52" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=40&lines=data+science+%F0%9F%93%8A+machine+learning+%F0%9F%A4%96+full-stack+%F0%9F%9A%80;if+it+can+be+built%2C+i'll+build+it+%E2%9A%A1;currently+building+scalable+data+pipelines+%E2%9A%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=48&lines=data+science+%E2%9C%A6+machine+learning+%E2%9C%A6+full-stack;if+it+can+be+built%2C+i'll+build+it;currently+building+scalable+data+pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
